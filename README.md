@@ -12,3 +12,5 @@ Here is a growing collection of resources and helpful commands to know when work
 - [git remote](./commands/Remote.md)
 - [git push](./commands/Push.md)
 - [git pull](./commands/pull.md)
+- [git status](.commands/status.md)
+
